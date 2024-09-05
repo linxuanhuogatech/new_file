@@ -1,2 +1,2 @@
 # new_file
-practice for github
+practice for  group meeting
